@@ -1,0 +1,22 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "16.20.0",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.9.1"
+    },
+    "version": "1.17.4",
+    "libraryName": "react-in-command-set-extensions",
+    "libraryId": "0ddb0fcc-b0a9-4b0f-a009-796a489940dd",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "react-in-command-set-extensions",
+    "solutionShortDescription": "react-in-command-set-extensions description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "extension",
+    "extensionType": "ListViewCommandSet"
+  }
+}
